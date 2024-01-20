@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Praktikum2</string>
+    <string name="person_name">OSAMAH ALMEKHLAFI</string>
+    <string name="phone_number">085697752948</string>
+    <string name="person_pict">Person Icon</string>
+    <string name="sign_out">Sign Out Icon</string>
+    <string name="qr_desc">Owner details</string>
+    <string name="button_name">Scan My QR Code</string>
+    <string name="img_desc">McLaren Automotive</string>
+    <string name="member_name">McLaren 570 GT</string>
+    <string name="button_nameGravity">570 GT</string>
+    <string name="text_1">McLaren Automotive</string>
+    <string name="text_2">About The company </string>
+    <string name="text_3">Car models</string>
+    <string name="text_4">Top sales</string>
+    <string name="text_5">last releases </string>
+    <string name="text_6">Want other car company?</string>
+    <string name="text_tablenama">Nama :</string>
+    <string name="text_username">Input Username</string>
+    <string name="text_phone">Input Number</string>
+    <string name="text_adress">Input Address</string>
+    <string name="text_tablephone">Phone :</string>
+    <string name="text_tableadress">Address :</string>
+    <string name="submit_text">Submit</string>
+
+</resources>
